@@ -26,22 +26,6 @@ var FoldersInLevel = {
                 "height": 780,
                 "fillStyle": "blue",
             }
-            // ,
-            // {
-            //     "id": "yellow",
-            //     "xPosition": 153,
-            //     "yPosition": 608,
-            //     "width": 54, "height": 44,
-            //     "fillStyle": "yellow",
-            // },
-            // {
-            //     "id": "blue",
-            //     "xPosition": 275,
-            //     "yPosition": 532,
-            //     "width": 54,
-            //     "height": 44,
-            //     "fillStyle": "blue",
-            // }
         ],
     "level2":
         [
